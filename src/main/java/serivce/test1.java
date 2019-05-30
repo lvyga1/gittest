@@ -28,5 +28,6 @@ public class test1 {
          */
         System.out.println(333);
         System.out.println(222);
+        System.out.println("弄个冲突");
     }
 }
