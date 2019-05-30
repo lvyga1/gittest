@@ -46,9 +46,7 @@ public class test1 {
          *                       代码无BUG!
          */
         System.out.println(333);
-        System.out.println(222);
 
-        System.out.println("JYJYJ");
         System.out.println("弄个冲突");
 
         /***
