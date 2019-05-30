@@ -26,6 +26,7 @@ public class test1 {
          *                        神兽保佑
          *                       代码无BUG!
          */
+        System.out.println(333);
         System.out.println(222);
     }
 }
