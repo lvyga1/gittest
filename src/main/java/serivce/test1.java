@@ -25,7 +25,6 @@ public class test1 {
 
     public static void main(String[] args) {
         System.out.println(111);
-        System.out.println(111);
         /***
          *                  ___====-_  _-====___
          *            _--^^^#####//      \\#####^^^--_
@@ -48,7 +47,6 @@ public class test1 {
          */
         System.out.println(333);
 
-        System.out.println("JYJYJJJJJJJJJ");
         System.out.println("弄个冲突");
 
         /***
@@ -83,4 +81,8 @@ public class test1 {
     }
 
 
+
+    public void update(){
+
+    }
 }
